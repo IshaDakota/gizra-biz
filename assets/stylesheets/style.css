@@ -2,3 +2,5 @@ body {
   font-size: 23px; }
   body .ui.form .field > label {
     font-size: 23px; }
+  body footer.ui.vertical.segment {
+    margin-top: 50px; }
