@@ -1,6 +1,10 @@
 body {
   font-size: 23px; }
-  body .ui.form .field > label {
-    font-size: 23px; }
+  body .form-container {
+    max-width: 760px;
+    margin: 0 auto; }
+    body .form-container .ui.form .field > label {
+      font-size: 23px;
+      text-align: left; }
   body footer.ui.vertical.segment {
     margin-top: 50px; }
