@@ -3,10 +3,16 @@
 body {
   font-size: 23px;
   
-  .ui.form .field>label {
-    font-size: 23px;
+  .form-container {
+    max-width: 760px;
+    margin: 0 auto;
+
+    .ui.form .field>label {
+      font-size: 23px;
+      text-align: left;
+    }
   }
-  
+    
   footer.ui.vertical.segment {
     margin-top: 50px;
   }
